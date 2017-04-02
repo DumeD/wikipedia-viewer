@@ -1,0 +1,14 @@
+body {
+  background-color: #004081; }
+
+.body-wrapper {
+  text-align: center;
+  margin: 40px auto; }
+  .body-wrapper .title {
+    color: white;
+    font-family: 'Lato', sans-serif; }
+  .body-wrapper .input {
+    border: none;
+    border-radius: 10px;
+    padding: 8px 15px;
+    margin-bottom: 20px; }

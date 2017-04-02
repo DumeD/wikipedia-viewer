@@ -1,0 +1,20 @@
+body {
+  background-color: #004081;
+}
+
+.body-wrapper {
+  text-align: center;
+  margin: 40px auto;
+
+  .title {
+    color: white;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .input {
+    border: none;
+    border-radius: 10px;
+    padding: 8px 15px;
+    margin-bottom: 20px;
+  }
+}
